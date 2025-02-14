@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**Clara024/Clara024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there, I'm Clara! 👋
 
-Here are some ideas to get you started:
+## About Me 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate about Data Analysis with experience in python, Microsoft Excel and SQL. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+
+- 🌱 Currently learning: Data Science
+- 🔭 Working on: 100days of code on replit and using Google lookerstudio for visualizations
+- 🌍 Languages:Python, SQL, HTML, English, Igbo
+- 📫 How to reach me: 07042822194, necheizundu@gmail.com
+- 📖 Education : I studied Geology at [Nnamdi Azikiwe University]https://physicalsciences.unizik.edu.ng/departments/geological-sciences/
+- ⚡ Fun fact: I love to read novels and explore new things
+
+## Get in Touch 📬
+
+- [Twitter]https://x.com/_Clarajoe?t=mnjqyyDM2RwYI-aJFg_jTQ&s=09
+- [Linkedin]https://www.linkedin.com/in/clara-izundu-986b93319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+
